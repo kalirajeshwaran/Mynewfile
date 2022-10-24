@@ -16,8 +16,8 @@
       "index",
       "inline"
     ],
-    "website": "https://github.com/AM-ROBOTS/AM-ROBOTS",
-    "repository": "https://github.com/AM-ROBOTS/AM-ROBOTS",
+    "website": "https://github.com/MrCinemas2/Eva",
+    "repository": "https://github.com/MrCinemas2/Eva",
     "env": {
         "BOT_TOKEN": {
             "description": "Your bot token.",
